@@ -9,7 +9,7 @@
 
 [ミュージアムへ行こう！](https://uedayou.net/go2museum/)で使用しているミュージアムデータをRDF化しました。
 
-<https://github.com/uedayou/ldapinavi-datasets/data/go2museum>
+<https://github.com/uedayou/ldapinavi-datasets/tree/master/data/go2museum>
 
 詳細は、Linked Data API Navi のページを参照してください。
 
@@ -22,7 +22,7 @@
 [日本郵便](https://www.post.japanpost.jp/)が公開する
 [郵便番号データ](https://www.post.japanpost.jp/zipcode/download.html)をRDF化しました。
 
-<https://github.com/uedayou/ldapinavi-datasets/data/postalcode>
+<https://github.com/uedayou/ldapinavi-datasets/tree/master/data/postalcode>
 
 詳細は、Linked Data API Navi のページを参照してください。
 
