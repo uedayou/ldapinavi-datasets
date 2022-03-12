@@ -11,7 +11,7 @@
 
 <https://github.com/uedayou/ldapinavi-datasets/data/go2museum>
 
-詳細は、Link Data API Navi のページを参照してください。
+詳細は、Linked Data API Navi のページを参照してください。
 
 <https://uedayou.net/ldapinavi/go2museum/museum>
 
@@ -24,6 +24,6 @@
 
 <https://github.com/uedayou/ldapinavi-datasets/data/postalcode>
 
-詳細は、Link Data API Navi のページを参照してください。
+詳細は、Linked Data API Navi のページを参照してください。
 
 <https://uedayou.net/ldapinavi/postalcode>
