@@ -7,7 +7,8 @@
 
 ### ミュージアムへ行こう！
 
-[ミュージアムへ行こう！](https://uedayou.net/go2museum/)で使用しているミュージアムデータをRDF化しました。
+[ミュージアムへ行こう！](https://uedayou.net/go2museum/)で使用しているミュージアム(美術館・博物館)データをRDF化しました。
+ファイルは、Turtle形式になっています。
 
 <https://github.com/uedayou/ldapinavi-datasets/tree/master/data/go2museum>
 
@@ -21,6 +22,7 @@
 
 [日本郵便](https://www.post.japanpost.jp/)が公開する
 [郵便番号データ](https://www.post.japanpost.jp/zipcode/download.html)をRDF化しました。
+ファイルは全てTurtle形式になっています。
 
 <https://github.com/uedayou/ldapinavi-datasets/tree/master/data/postalcode>
 
