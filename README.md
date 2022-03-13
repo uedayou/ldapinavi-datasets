@@ -10,7 +10,7 @@
 [ミュージアムへ行こう！](https://uedayou.net/go2museum/)で使用しているミュージアム(美術館・博物館)データをRDF化しました。
 ファイルは、Turtle形式になっています。
 
-<https://github.com/uedayou/ldapinavi-datasets/tree/master/data/go2museum>
+<https://github.com/uedayou/ldapinavi-datasets/tree/master/go2museum>
 
 詳細は、Linked Data API Navi のページを参照してください。
 
@@ -24,7 +24,7 @@
 [郵便番号データ](https://www.post.japanpost.jp/zipcode/download.html)をRDF化しました。
 ファイルは全てTurtle形式になっています。
 
-<https://github.com/uedayou/ldapinavi-datasets/tree/master/data/postalcode>
+<https://github.com/uedayou/ldapinavi-datasets/tree/master/postalcode>
 
 詳細は、Linked Data API Navi のページを参照してください。
 
