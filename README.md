@@ -48,3 +48,7 @@
 をRDF化しました。
 
 <https://github.com/uedayou/ldapinavi-datasets/tree/master/ejdict>
+
+詳細は、Linked Data API Navi のページを参照してください。
+
+<https://uedayou.net/ldapinavi/ejdict/dic>
