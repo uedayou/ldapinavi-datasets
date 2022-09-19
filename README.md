@@ -39,3 +39,12 @@
 詳細は、Linked Data API Navi のページを参照してください。
 
 <https://uedayou.net/ldapinavi/data.go.jp/dbsites>
+
+
+### EJDict
+
+パブリックドメインの英和辞書データ、
+[English-Japanese Dictionary "ejdict-hand"](https://github.com/kujirahand/EJDict)
+をRDF化しました。
+
+<https://github.com/uedayou/ldapinavi-datasets/tree/master/ejdict>
