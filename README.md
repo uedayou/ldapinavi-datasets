@@ -52,3 +52,14 @@
 詳細は、Linked Data API Navi のページを参照してください。
 
 <https://uedayou.net/ldapinavi/ejdict/dic>
+
+
+### 京都市営地下鉄駅階段情報
+
+LODチャレンジ2022においてLOD活動賞を受賞した[京都市営地下鉄駅階段情報](https://docs.google.com/spreadsheets/d/1hIlagZ49xrF73-1QFFXfxTZtt8S2h0KLXHP3oJOXi7U/)からCSVを出力してRDF化しました。
+
+<https://github.com/uedayou/ldapinavi-datasets/tree/master/kyoto_subway_steps>
+
+詳細は、Linked Data API Navi のページを参照してください。
+
+<https://uedayou.net/ldapinavi/kyoto_subway_steps/stations>
